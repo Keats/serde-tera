@@ -1,0 +1,9 @@
+[package]
+name = "serde-tera"
+version = "0.1.0"
+authors = ["Vincent Prouillet <prouillet.vincent@gmail.com>"]
+
+[dependencies]
+serde = "1.0"
+indexmap = "1"
+serde_derive = "1.0"
